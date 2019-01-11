@@ -1,0 +1,76 @@
+,City,State,County,Average Rent,Murders
+0,New York,NY,Queens," $2,978 ",266
+1,Los Angeles,CA,Los Angeles," $3,195 ",209
+2,Chicago,IL,Cook," $1,758 ",378
+3,Houston,TX,Harris," $1,490 ",191
+4,San Antonio,TX,Bexar," $1,115 ",78
+5,Philadelphia,PA,Philadelphia," $1,476 ",209
+6,Phoenix,AZ,Maricopa," $1,194 ",72
+7,Las Vegas,NV,Clark," $1,220 ",90
+8,San Diego,CA,San Diego," $2,342 ",23
+9,Dallas,TX,Dallas," $1,395 ",95
+10,San Jose,CA,Santa Clara," $3,031 ",22
+11,Austin,TX,Travis," $1,460 ",13
+12,Jacksonville,FL,Duval," $1,084 ",67
+13,San Francisco,CA,San Francisco," $4,552 ",35
+14,Indianapolis,IN,Marion, $892 ,102
+15,Fort Worth,TX,Tarrant," $1,389 ",61
+16,Columbus,OH,Franklin," $1,087 ",71
+17,Tucson,AZ,Pima," $1,044 ",23
+18,Louisville,KY,Jefferson, $934 ,52
+19,El Paso,TX,El Paso," $1,126 ",12
+20,Detroit,MI,Wayne, $750 ,216
+21,Orlando,FL,Orange," $1,301 ",19
+22,Denver,CO,Denver," $1,968 ",32
+23,Seattle,WA,King," $2,259 ",17
+24,Memphis,TN,Shelby, $876 ,114
+25,Boston,MA,Suffolk," $2,617 ",28
+26,Nashville,TN,Davidson," $1,515 ",47
+27,Portland,OR,Multnomah," $1,724 ",19
+28,Sacramento,CA,Sacramento," $1,286 ",31
+29,Baltimore,MD,Baltimore City," $1,359 ",249
+30,Milwaukee,WI,Milwaukee," $1,032 ",105
+31,Fresno,CA,Fresno, $301 ,30
+32,Omaha,NE,Douglas, $-   ,34
+33,Albuquerque,NM,Bernalillo," $1,187 ",35
+34,Oklahoma City,OK,Oklahoma," $1,120 ",28
+35,Raleigh,NC,Wake," $1,217 ",8
+36,Atlanta,GA,Fulton," $1,200 ",68
+37,Kansas City,MO,Jackson, $848 ,77
+38,Long Beach,CA,Los Angeles," $1,960 ",25
+39,Colorado Springs,CO,El Paso," $1,284 ",12
+40,Virginia Beach,VA,Virginia Beach City," $1,406 ",17
+41,Miami,FL,Miami-Dade," $2,382 ",62
+42,Oakland,CA,Alameda," $2,607 ",65
+43,Tulsa,OK,Tulsa, $980 ,43
+44,Minneapolis,MN,Hennepin," $1,523 ",34
+45,Honolulu,HI,Honolulu," $2,511 ",12
+46,Cleveland,OH,Cuyahoga, $830 ,96
+47,New Orleans,LA,Orleans Parish, $708 ,130
+48,Arlington,TX,Tarrant," $1,343 ",4
+49,Wichita,KS,Sedgwick, $871 ,13
+50,Aurora,CO,Arapahoe," $1,616 ",13
+51,Riverside,CA,Riverside," $1,803 ",6
+52,Bakersfield,CA,Kern," $1,396 ",21
+53,Pittsburgh,PA,Allegheny," $1,279 ",46
+54,Cincinnati,OH,Hamilton, $995 ,50
+55,Anaheim,CA,Orange," $2,290 ",10
+56,Santa Ana,CA,Orange, $-   ,10
+57,Corpus Christi,TX,Nueces," $1,543 ",10
+58,Lexington,KY,Fayette," $1,117 ",13
+59,Fort Wayne,IN,Allen, $626 ,17
+60,Greensboro,NC,Guilford, $936 ,15
+61,Toledo,OH,Lucas, $779 ,5
+62,Anchorage,AK,Anchorage Borough," $1,822 ",19
+63,Durham,NC,Durham," $1,279 ",25
+64,Stockton,CA,San Joaquin," $1,253 ",30
+65,Plano,TX,Collin," $1,832 ",2
+66,Newark,NJ,Essex," $1,308 ",76
+67,Henderson,NV,Clark," $1,383 ",1
+68,Lincoln,NE,Lancaster," $1,154 ",0
+69,Chandler,AZ,Maricopa," $1,400 ",2
+70,Jersey City,NJ,Hudson," $2,178 ",11
+71,Buffalo,NY,Erie, $-   ,31
+72,Mobile,AL,Mobile, $860 ,6
+73,Chula Vista,CA,San Diego," $2,199 ",5
+74,Laredo,TX,Webb, $-   ,7
